@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://main--merry-cheesecake-bb4ba5.netlify.app/"
 languageCode: en-us
 title: My First New Hugo Site
 theme: PaperMod
